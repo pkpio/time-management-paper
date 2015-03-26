@@ -1,2 +1,2 @@
 # time-management-paper
-Things I ought to do 4 credits ;)
+Things I ought to do for 4 credits ;)
